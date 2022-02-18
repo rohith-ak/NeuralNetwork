@@ -1,6 +1,9 @@
 # NeuralNetwork
 Regression and classification using neural network
 
+Notebook as HTML file can be accessed using below link
+https://htmlpreview.github.io/?https://github.com/rohith-ak/NeuralNetwork/blob/adcbc4515f13db3652d25767760ff42bb8a5a53a/Project-NeuralNetworks.html
+
 # Introduction
 The Notebook file  has 2 projects. The description of the projects are mentioned below.
 
